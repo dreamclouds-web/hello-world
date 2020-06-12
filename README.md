@@ -1,3 +1,3 @@
 # hello-world
-try1
+try
 nasi goreng
